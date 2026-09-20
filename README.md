@@ -74,7 +74,7 @@ This satisfies assignment Step 8.
 Start the FastAPI server using:
 
 ```
-uvicorn app:app --reload
+python -m uvicorn app:app --reload
 ```
 
 Ensure `bankloan_rf_model.pkl` is in the same directory.
@@ -94,7 +94,8 @@ scikit-learn
 joblib
 openpyxl
 ```
-
+bash
+python -m pip install -r requirements.txt
 ---
 
 ## 6. Files to Submit
