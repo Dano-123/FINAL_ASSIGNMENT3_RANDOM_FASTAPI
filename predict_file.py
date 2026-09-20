@@ -2,7 +2,7 @@
 """
 Loan Default Prediction: Test Data Scoring Script
 Author: Daniel O'Keeffe
-Created: 21 September 2026
+Created: 20 September 2026
 
 Description:
     This script loads a previously trained Random Forest model and applies

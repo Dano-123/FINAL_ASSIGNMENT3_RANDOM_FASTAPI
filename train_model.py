@@ -2,7 +2,7 @@
 """
 Loan Default Prediction: Model Training Script
 Author: Daniel O'Keeffe
-Created: 21 September 2026
+Created: 20 September 2026
 
 Description:
     This script trains, evaluates, and saves a Random Forest classification
